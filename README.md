@@ -6,6 +6,7 @@ This project focuses on structured layout design, user experience (UX), brand co
 The goal is to create a visually appealing, fast-loading, and conversion-friendly website ideal for businesses, startups, agencies, and service providers.
 
 - website link <a href="https://themastermanuals.com/">Master Manuals</a>
+- website link <a href="https://redasupplies.co.ke/">RedaSupplies</a>
 - website link <a href="https://voladolabs.ai/">Volado</a>
 - website link <a href="https://darkslateblue-hippopotamus-888171.hostingersite.com/">Hill Crest</a>
 - webiste link <a href="https://lightgray-crab-126852.hostingersite.com/"> Ezy Appliances</a>
