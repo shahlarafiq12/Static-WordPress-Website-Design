@@ -16,8 +16,8 @@ The goal is to create a visually appealing, fast-loading, and conversion-friendl
 - website link <a href="https://thecompetitorcoachprojects.co.uk">Pipe view</a>
 - website link <a href="https://marvel.wpbabu.com">Marvel</a>
 
-✨ Key Features & Highlights
-🎨 Design & User Experience
+## ✨ Key Features & Highlights
+### 🎨 Design & User Experience
 
 - Custom-designed WordPress layout
 
@@ -33,7 +33,7 @@ The goal is to create a visually appealing, fast-loading, and conversion-friendl
 
 - Conversion-focused call-to-action placements
 
-⚡ Performance Optimization
+## ⚡ Performance Optimization
 
 - Lightweight theme structure
 
@@ -47,7 +47,7 @@ The goal is to create a visually appealing, fast-loading, and conversion-friendl
 
 - Clean and minimal code structure
 
-🏗️ Technical Stack
+## 🏗️ Technical Stack
 
 - Platform: WordPress
 
@@ -61,7 +61,7 @@ The goal is to create a visually appealing, fast-loading, and conversion-friendl
 
 - Basic On-page SEO Structure
 
-🔐 Security & Stability
+## 🔐 Security & Stability
 
 - Secure configuration
 
@@ -71,7 +71,7 @@ The goal is to create a visually appealing, fast-loading, and conversion-friendl
 
 - Basic firewall integration
 
-🎯 Ideal For
+## 🎯 Ideal For
 
 - Corporate businesses
 
@@ -85,7 +85,7 @@ The goal is to create a visually appealing, fast-loading, and conversion-friendl
 
 - Portfolio websites
 
-🚀 Result
+## 🚀 Result
 
 A fast, elegant, and professional static WordPress website that:
 
