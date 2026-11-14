@@ -1,7 +1,7 @@
 # Static-WordPress-Website-Design
 A professionally designed and fully responsive static WordPress website built to deliver a clean, modern, and performance-focused digital presence.
 
-This project focuses on structured layout design, user experience (UX), brand consistency, and optimized performance — without complex dynamic systems or heavy eCommerce functionality.
+This project focuses on structured layout design, user experience (UX), brand consistency, and optimized performance without complex dynamic systems or heavy eCommerce functionality.
 
 The goal is to create a visually appealing, fast-loading, and conversion-friendly website ideal for businesses, startups, agencies, and service providers.
 
