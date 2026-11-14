@@ -9,7 +9,6 @@ The goal is to create a visually appealing, fast-loading, and conversion-friendl
 - website link <a href="https://redasupplies.co.ke/">RedaSupplies</a>
 - website link <a href="https://buildwell.pk/">Build Well</a>
 - website link <a href="https://zionzoomtechnologies.com/">Zoin Zoom Technologies</a>
-- website link <a href="https://voladolabs.ai/">Volado</a>
 - website link <a href="https://darkslateblue-hippopotamus-888171.hostingersite.com/">Hill Crest</a>
 - webiste link <a href="https://lightgray-crab-126852.hostingersite.com/"> Ezy Appliances</a>
 - website link <a href="https://stonerestoration.com.au/">Stone Care</a>
